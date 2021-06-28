@@ -1,0 +1,13 @@
+.caja{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.login{
+    height: auto;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid #95999c;
+    margin-top: 100px;
+}
+
